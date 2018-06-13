@@ -1,0 +1,30 @@
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.exe
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.pdb
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\AtividadeAvaliativa.csproj.GenerateResource.Cache
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\AtividadeAvaliativa.exe
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\AtividadeAvaliativa.pdb
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx1.resources
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx2.resources
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx3.resources
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx4.resources
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx5.resources
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx6.resources
+G:\2 - ATIVIDADES\DS\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx7.resources
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\AtividadeAvaliativa.exe
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\AtividadeAvaliativa.pdb
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.exe
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.pdb
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx1.resources
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx2.resources
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx3.resources
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx4.resources
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx5.resources
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx6.resources
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.frmEx7.resources
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\ds-master\2018.06.05\AtividadeAvaliativa\AtividadeAvaliativa\obj\x86\Debug\AtividadeAvaliativa.csproj.GenerateResource.Cache
+G:\ETEC\DS1\ATIVIDADE DS - ITALO SALES\AtividadeAvaliativa\obj\x86\Debug\AtividadeAvaliativa.exe
+G:\ETEC\DS1\ATIVIDADE DS - ITALO SALES\AtividadeAvaliativa\obj\x86\Debug\AtividadeAvaliativa.pdb
